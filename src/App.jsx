@@ -105,13 +105,13 @@ function App() {
       </div>
 
       <div className="row">
-        <button id="result" onClick={calculate}>
+        <button  onClick={calculate}>
           =
         </button>
-        <button id="clear" onClick={clear}>
+        <button  onClick={clear}>
           AC
         </button>
-        <button id="backspace" onClick={backspace}>
+        <button  onClick={backspace}>
           C
         </button>
       </div>
