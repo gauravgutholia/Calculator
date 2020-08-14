@@ -39,6 +39,12 @@ input,
   font-size: 1.1rem;
   cursor: pointer;
 }
+.Green {
+  background-color: green;
+}
+.Red {
+  background-color: red;
+}
 .lower {
   background-color: orange;
 }
