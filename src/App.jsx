@@ -40,7 +40,7 @@ function App() {
           <button name="7" onClick={handleClick}>
             7
           </button>
-          <button name="8" onClick={handleClick}></button>
+          <button name="8" onClick={handleClick}>8</button>
           <button name="9" onClick={handleClick}>
             9
           </button>
